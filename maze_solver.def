@@ -1,0 +1,4 @@
+EXPORTS
+    generate_random_maze_api
+    solve_bfs_api
+    solve_astar_api
